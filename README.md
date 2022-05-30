@@ -1,5 +1,5 @@
 <div align="center">
-	![ssapilogue](https://user-images.githubusercontent.com/78924207/167992034-573173c0-daf4-470a-bb0e-04808e5c8695.png)
+	![ssapilogue](https://user-images.githubusercontent.com/78924207/170977365-7812bb38-666c-4876-b8a4-7e8ee37798d0.png)
 </div>
 
 > **SSAFY + Epilogue**
@@ -154,4 +154,4 @@ frontend
 
 ## 5. 프로젝트 결과
 
-짱짱최고1등❤
+🥈삼성 청년 SW 아카데미 2학기 자율 프로젝트 광주 1반 2등🥈
